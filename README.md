@@ -114,7 +114,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=FFFFFF&ring=FFFFFF&fire=39ff14&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=000000&ring=FFFFFF&fire=39ff14&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
 
 <br/><br/>
 
