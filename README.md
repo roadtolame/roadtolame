@@ -90,7 +90,7 @@
 
 ```
  User    : roadtolame
-OS    : Windows 11 PRO 22SH4
+    OS    : Windows 11 PRO 22SH4
  CPU     : AMD Ryzen 5 5600G
  GPU     : NVIDIA RTX 4060
  RAM     : 32 GB DDR4
