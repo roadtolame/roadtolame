@@ -22,13 +22,12 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════════════╗
-║  USER       : Владислав (roadtolame)                        ║
+║  USER       : Владислав (roadtolame)                         ║
 ║  AGE        : 18                                             ║
-║  LEVEL      : 1st year @ CS University                      ║
-║  MAJOR      : Фундаментальная информатика                   ║
-║  DIRECTION  : Программирование и информационные технологии  ║
-║  STARTED    : 2020 (14 y.o. — GameDev entry point)          ║
-║  STATUS     : 🟢 ONLINE & BUILDING                          ║
+║  LEVEL      : 1st year @ CS University                       ║
+║  MAJOR      : Фундаментальная информатика                    ║
+║  DIRECTION  : Программирование и информационные технологии   ║
+║  STARTED    : 2020 (14 y.o. — GameDev entry point)           ║                       
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -44,10 +43,9 @@
 
 | SECTOR | MISSION | STATUS |
 |:---:|:---:|:---:|
-| 🤖 | **Artificial Intelligence** | `[IN PROGRESS]` |
-| 🧠 | **Machine Learning** | `[IN PROGRESS]` |
-| 🎮 | **GameDev** | `[ROOTS HERE]` |
-| ⚔️ | **Competitive Programming** | `[LEVELING UP]` |
+|  | **Artificial Intelligence** | `[IN PROGRESS]` |
+|  | **Machine Learning** | `[IN PROGRESS]` |
+|  | **Competitive Programming** | `[LEVELING UP]` |
 
 </div>
 
@@ -74,7 +72,7 @@
 <br/>
 
 ```
-> python     ████████████████████░░  [ADVANCED — main weapon]
+> python     ██████████████████████  [ADVANCED — main weapon]
 > c++        ████████████░░░░░░░░░░  [LEARNING — uni course]
 > c#         ████████░░░░░░░░░░░░░░  [EXPERIMENTING — .NET]
 > fastapi    ██████████████░░░░░░░░  [ACTIVE — async/modern]
@@ -91,17 +89,13 @@
 <div align="center">
 
 ```
-                 User    : roadtolame
-               OS      : Windows 11
-            CPU     : AMD Ryzen 5 5600G
-          GPU     : NVIDIA RTX 4060
-        RAM     : 32 GB DDR4
-      Shell   : pwsh 7.x
-    Editor  : VS Code / Rider
-   Theme   : 🟢 Matrix Mode
-  Uptime  : since 2020
+ User    : roadtolame
+ OS      : Windows 11
+ CPU     : AMD Ryzen 5 5600G
+ GPU     : NVIDIA RTX 4060
+ RAM     : 32 GB DDR4
+ Editor  : VS Code / Visual Studio / LM Studio /  Pycharm 
 ```
-
 </div>
 
 <br/>
@@ -166,13 +160,9 @@ PING roadtolame ...
 <div align="center">
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░                                                   ░
-░   "Code is not just logic — it's expression."    ░
-░                                                   ░
-░              — roadtolame, 2024                   ░
-░                                                   ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+               — roadtolame, 2024
+
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=150&section=footer&text=EOF&fontSize=40&fontColor=00FF9D&animation=fadeIn&fontAlignY=65" width="100%"/>
