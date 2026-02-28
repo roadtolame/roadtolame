@@ -114,11 +114,11 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=ffffff&ring=FFFFFF&fire=39ff14&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=0d1117&ring=FFFFFF&fire=39ff14&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roadtolame&bg_color=0d1117&color=00FF9D&line=39ff14&point=00FF9D&area=true&area_color=00FF9D&hide_border=true&radius=12)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roadtolame&bg_color=ffffff&color=00FF9D&line=39ff14&point=00FF9D&area=true&area_color=00FF9D&hide_border=true&radius=12)
 
 </div>
 
