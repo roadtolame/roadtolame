@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12&height=300&section=header&text=ROADTOLAME&fontSize=90&fontColor=FFFFFF&fontAlignY=45&desc=root%40github%3A~%23&descSize=28&descAlignY=65&descColor=FFFFFF&animation=fadeIn&stroke=00FF9D&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12&height=300&section=header&text=ROADTOLAME&fontSize=90&fontColor=FFFFFF&fontAlignY=45&desc=root%40github%3A~%23&descSize=28&descAlignY=65&descColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=2" width="100%"/>
 
 </div>
 
