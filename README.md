@@ -1,97 +1,176 @@
 <div align="center">
 
-<!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vladislav&fontSize=70&fontColor=00FF9D&fontAlignY=38&desc=~/developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12&height=300&section=header&text=VLADISLAV&fontSize=90&fontColor=00FF9D&fontAlignY=45&desc=root%40github%3A~%23&descSize=28&descAlignY=65&descColor=39ff14&animation=fadeIn&stroke=00FF9D&strokeWidth=2" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=600&lines=18+лет+%E2%80%A2+Студент+1+курса;Python+%7C+C%2B%2B+%7C+C%23;Пишу+код+с+душой+%F0%9F%92%BB;AI+%7C+ML+%7C+GameDev+%7C+Competitive;Открыт+к+сотрудничеству+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=600&color=00FF9D&center=true&vCenter=true&width=700&lines=%5BACCESS+GRANTED%5D+Welcome+to+my+profile...;Student+%40+CS+%2F+1st+year+%7C+18+y.o.;Python+%7C+C%2B%2B+%7C+C%23+%7C+%2B+more;Specializing+in+AI+%2F+ML+%2F+GameDev;Competitive+Programmer+in+progress;%5BSTATUS%5D+Open+for+collaboration+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-## `~$ whoami`
+<div align="center">
+
+```
+████████████████████████████████████████████████████████████████████████████████████
+
+██████╗░░█████╗░░█████╗░██████╗░████████╗░█████╗░██╗░░░░░░█████╗░███╗░░░███╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░░░░██╔══██╗████╗░████║██╔════╝
+██████╔╝██║░░██║███████║██║░░██║░░░██║░░░██║░░██║██║░░░░░███████║██╔████╔██║█████╗░░
+██╔══██╗██║░░██║██╔══██║██║░░██║░░░██║░░░██║░░██║██║░░░░░██╔══██║██║╚██╔╝██║██╔══╝░░
+██║░░██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░╚█████╔╝███████╗██║░░██║██║░╚═╝░██║███████╗
+╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░░╚════╝░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝
+                                    [roatolame]     
+████████████████████████████████████████████████████████████████████████████████████
+```
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/> `root@system:~# cat /etc/profile`
 
 ```bash
-> Владислав, 18 лет
-> Студент 1 курса: Фундаментальная информатика
-> Направление: Программирование и ИТ
-> Увлекаюсь программированием с 14 лет — начинал с геймдева
+╔══════════════════════════════════════════════════════════════╗
+║  USER       : Владислав (roadtolame)                        ║
+║  AGE        : 18                                             ║
+║  LEVEL      : 1st year @ CS University                      ║
+║  MAJOR      : Фундаментальная информатика                   ║
+║  DIRECTION  : Программирование и информационные технологии  ║
+║  STARTED    : 2020 (14 y.o. — GameDev entry point)          ║
+║  STATUS     : 🟢 ONLINE & BUILDING                          ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-## `~$ cat interests.json`
+---
 
-```json
-{
-  "priorities": ["AI & Machine Learning", "GameDev", "Competitive Programming"],
-  "currently_learning": ["C++ (алгоритмы, ООП)", "Python modern (FastAPI, async)", "C# .NET"],
-  "looking_for": "интересные проекты и новые знакомства"
-}
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br/>
-
-## `~$ ls ./stack`
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> `root@system:~# ./scan_priorities.sh`
 
 <div align="center">
 
-### Языки
-
-[![Python](https://img.shields.io/badge/Python-14151a?style=for-the-badge&logo=python&logoColor=00FF9D)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-14151a?style=for-the-badge&logo=cplusplus&logoColor=00FF9D)](https://isocpp.org)
-[![C#](https://img.shields.io/badge/C%23-14151a?style=for-the-badge&logo=csharp&logoColor=00FF9D)](https://learn.microsoft.com/dotnet/csharp/)
-
-### Фреймворки и инструменты
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-14151a?style=for-the-badge&logo=fastapi&logoColor=00FF9D)](https://fastapi.tiangolo.com)
-[![.NET](https://img.shields.io/badge/.NET-14151a?style=for-the-badge&logo=dotnet&logoColor=00FF9D)](https://dotnet.microsoft.com)
-[![Git](https://img.shields.io/badge/Git-14151a?style=for-the-badge&logo=git&logoColor=00FF9D)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-14151a?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9D)](https://code.visualstudio.com)
+| SECTOR | MISSION | STATUS |
+|:---:|:---:|:---:|
+| 🤖 | **Artificial Intelligence** | `[IN PROGRESS]` |
+| 🧠 | **Machine Learning** | `[IN PROGRESS]` |
+| 🎮 | **GameDev** | `[ROOTS HERE]` |
+| ⚔️ | **Competitive Programming** | `[LEVELING UP]` |
 
 </div>
 
 <br/>
 
-## `~$ neofetch`
+---
 
-```
-         OS: Windows 11
-        CPU: AMD Ryzen 5 5600G
-        GPU: NVIDIA RTX 4060
-        RAM: 32 GB DDR4
-     Editor: VS Code / Rider
-      Theme: Dark + Green accents
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br/>
-
-## `~$ git log --stat`
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"/> `root@system:~# ls -la /stack`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roadtolame&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9&border_radius=10)
+### ⬡ CORE LANGUAGES
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roadtolame&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&border_radius=10)
+<img src="https://skillicons.dev/icons?i=python,cpp,cs&theme=dark&perline=3" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=roadtolame&theme=merko&hide_border=true&background=0d1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&border_radius=10)
+### ⬡ FRAMEWORKS & TOOLS
+
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,git,vscode,github,linux&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
-## `~$ contact --list`
+```
+> python     ████████████████████░░  [ADVANCED — main weapon]
+> c++        ████████████░░░░░░░░░░  [LEARNING — uni course]
+> c#         ████████░░░░░░░░░░░░░░  [EXPERIMENTING — .NET]
+> fastapi    ██████████████░░░░░░░░  [ACTIVE — async/modern]
+```
+
+<br/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30"/> `root@system:~# neofetch`
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/@roadtolame-14151a?style=for-the-badge&logo=telegram&logoColor=00FF9D&label=Telegram)](https://t.me/roadtolame)
+```
+                 User    : roadtolame
+               OS      : Windows 11
+            CPU     : AMD Ryzen 5 5600G
+          GPU     : NVIDIA RTX 4060
+        RAM     : 32 GB DDR4
+      Shell   : pwsh 7.x
+    Editor  : VS Code / Rider
+   Theme   : 🟢 Matrix Mode
+  Uptime  : since 2020
+```
+
+</div>
+
+<br/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> `root@system:~# git log --all --stat`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roadtolame&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF9D&icon_color=39ff14&text_color=c9d1d9&border_radius=12&ring_color=00FF9D" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roadtolame&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&border_radius=12" width="49%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=0d1117&ring=00FF9D&fire=39ff14&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=6e8a6e&border_radius=12" width="70%"/>
+
+<br/><br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roadtolame&bg_color=0d1117&color=00FF9D&line=39ff14&point=00FF9D&area=true&area_color=00FF9D&hide_border=true&radius=12)
+
+</div>
+
+<br/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `root@system:~# ping roadtolame`
+
+<div align="center">
+
+```
+PING roadtolame ...
+64 bytes from Vladislav: icmp_seq=1 ttl=64 time=< 1ms ✓
+```
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/▶_CONNECT_VIA_TELEGRAM-@roadtolame-00FF9D?style=for-the-badge&logo=telegram&logoColor=0d1117&labelColor=0d1117&color=00FF9D)](https://t.me/roadtolame)
+
+<br/>
+
+```
+> Есть интересный проект?
+> Хочешь поговорить о коде?
+> Ищешь напарника по competitive?
+
+[>_ WRITE ME. I DON'T BITE. USUALLY.]
+```
 
 </div>
 
@@ -101,8 +180,16 @@
 
 <div align="center">
 
-*`// Спасибо, что заглянул! Если есть интересный проект или просто хочешь поболтать о коде — пиши ✨`*
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░                                                   ░
+░   "Code is not just logic — it's expression."    ░
+░                                                   ░
+░              — roadtolame, 2024                   ░
+░                                                   ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=150&section=footer&text=EOF&fontSize=40&fontColor=00FF9D&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
