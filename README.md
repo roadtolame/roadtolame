@@ -110,7 +110,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=roadtolame&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF9D&icon_color=39ff14&text_color=c9d1d9&border_radius=12&ring_color=00FF9D" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roadtolame&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=ffffff&title_color=00FF9D&text_color=c9d1d9&border_radius=12" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roadtolame&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&border_radius=12" width="49%"/>
 
 <br/><br/>
 
