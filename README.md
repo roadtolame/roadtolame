@@ -152,10 +152,4 @@ PING roadtolame ...
 
 </div>
 
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=150&section=footer&text=ROADTOLAME&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
-
 </div>
