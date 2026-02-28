@@ -72,7 +72,7 @@
 <br/>
 
 ```
-> python     ██████████████████████  [ADVANCED — main weapon]
+> python     ██████████████████████  [ADVANCED — main]
 > c++        ████████████░░░░░░░░░░  [LEARNING — uni course]
 > c#         ████████░░░░░░░░░░░░░░  [EXPERIMENTING — .NET]
 > fastapi    ██████████████░░░░░░░░  [ACTIVE — async/modern]
@@ -134,7 +134,7 @@
 
 ```
 PING roadtolame ...
-64 bytes from Vladislav: icmp_seq=1 ttl=64 time=< 1ms ✓
+64 bytes from roadtolame: icmp_seq=1 ttl=64 time=< 1ms ✓
 ```
 
 <br/>
@@ -145,10 +145,9 @@ PING roadtolame ...
 
 ```
 > Есть интересный проект?
-> Хочешь поговорить о коде?
-> Ищешь напарника по competitive?
+> Ищешь напарника по программированию?
 
-[>_ WRITE ME. I DON'T BITE. USUALLY.]
+[>_ Напиши мне в телеграм - обсудим.]
 ```
 
 </div>
@@ -157,14 +156,6 @@ PING roadtolame ...
 
 ---
 
-<div align="center">
-
-```
-
-               — roadtolame, 2024
-
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=150&section=footer&text=EOF&fontSize=40&fontColor=00FF9D&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=150&section=footer&text=ROADTOLAME&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
