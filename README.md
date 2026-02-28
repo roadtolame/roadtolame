@@ -114,7 +114,7 @@
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roadtolame&bg_color=FFFFFF&color=00FF9D&line=39ff14&point=00FF9D&area=true&area_color=00FF9D&hide_border=true&radius=12)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roadtolame&bg_color=0d1117&color=00FF9D&line=39ff14&point=00FF9D&area=true&area_color=00FF9D&hide_border=true&radius=12)
 
 </div>
 
