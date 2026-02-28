@@ -110,7 +110,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=matrix&hide_border=true&background=0d1117&ring=FFFFFF&fire=ffffff&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=roadtolame&theme=light&hide_border=true&background=0d1117&ring=FFFFFF&fire=ffffff&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=FFFFFF&border_radius=12" width="70%"/>
 
 <br/><br/>
 
