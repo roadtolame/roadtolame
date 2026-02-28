@@ -21,14 +21,14 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"/> `root@system:~# cat /etc/profile`
 
 ```bash
-╔══════════════════════════════════════════════════════════════╗
-║  USER       : Владислав (roadtolame)                         ║
-║  AGE        : 18                                             ║
-║  LEVEL      : 1st year @ MelSU                               ║
-║  SPECS:     : Фундаментальная информатика                    ║
-║  DIRECTION  : Программирование и информационные технологии   ║
-║  STARTED    : 2022 (14 y.o. — GameDev entry point)           ║                       
-╚══════════════════════════════════════════════════════════════╝
+
+   USER       : Владислав (roadtolame)                         
+   AGE        : 18                                             
+   LEVEL      : 1st year @ MelSU                               
+   SPECS:     : Фундаментальная информатика                    
+   DIRECTION  : Программирование и информационные технологии   
+   STARTED    : 2022 (14 y.o. — GameDev entry point)                                
+
 ```
 
 <br/>
